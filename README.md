@@ -26,6 +26,6 @@ For detailed instructions and code examples, please refer to the documentation p
 We welcome contributions! If you want to improve this project or add new features, please open an issue or submit a pull request.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the @LICENSE file for details.
 
 
